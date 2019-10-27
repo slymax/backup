@@ -1,0 +1,9 @@
+{
+  "name": "backup",
+  "version": "1.0.0",
+  "dependencies": {
+    "args": "^5.0.1",
+    "download": "^7.1.0",
+    "node-fetch": "^2.6.0"
+  }
+}
